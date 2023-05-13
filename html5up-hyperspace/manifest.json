@@ -1,0 +1,59 @@
+{
+    "name": "Expresso caridade e amor PWA",
+    "short_name": "Caridade",
+    "description": "Descrição da PWA",
+    "icons": [
+      {
+        "src": "assets/img/128.webp",
+        "sizes": "128x128",
+        "type": "image/webp"
+      },
+      {
+        "src": "assets/img/144.webp",
+        "sizes": "144x144",
+        "type": "image/webp"
+      },
+      {
+        "src": "assets/img/152.webp",
+        "sizes": "152x152",
+        "type": "image/webp"
+      },
+      {
+        "src": "assets/img/167.webp",
+        "sizes": "167x167",
+        "type": "image/webp"
+      },
+      {
+        "src": "assets/img/180.webp",
+        "sizes": "180x180",
+        "type": "image/webp"
+      },
+      {
+        "src": "assets/img/196.webp",
+        "sizes": "196x196",
+        "type": "image/webp",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "assets/img/256.webp",
+        "sizes": "256x256",
+        "type": "image/webp"
+      },
+      {
+        "src": "assets/img/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+
+      {
+        "src": "assets/img/512.webp",
+        "sizes": "512x512",
+        "type": "image/webp"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#fff",
+    "theme_color": "#336699",
+    "display": "standalone"
+  }
+  
